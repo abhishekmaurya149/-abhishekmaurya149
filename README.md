@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abhishekmaurya491" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhishekmaurya491" height="30" width="40" /></a>
+<a href="https://codepen.io/abhishekmaurya491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhishekmaurya491" height="30" width="40" /></a>
 <a href="https://twitter.com/mauryaj123123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauryaj123123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-maurya-746761211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-maurya-746761211/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abhishek_codivation/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhishek_codivation/" height="30" width="40" /></a>
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmaurya149&show_icons=true&locale=en&layout=compact" alt="abhishekmaurya149" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmaurya149&show_icons=true&locale=en" alt="abhishekmaurya149" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishekmaurya149&show_icons=true&locale=en" alt="abhishekmaurya149" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmaurya149&" alt="abhishekmaurya149" /></p>
