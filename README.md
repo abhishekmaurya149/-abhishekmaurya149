@@ -1,4 +1,4 @@
-! [logo] (https://github.com/abhishekmaurya149/-abhishekmaurya149/blob/main/LinkedIn%20Background%20Photo.png)
+![logo](https://github.com/abhishekmaurya149/-abhishekmaurya149/blob/main/LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
